@@ -1,2 +1,2 @@
-# To-Do-List-B
-Basic Project 4
+# To-Do List 2
+Simple To do list application using HTML, CSS and Javascript
